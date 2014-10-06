@@ -60,7 +60,8 @@ alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 MileStone 3:
 Replacing the LED with a real LAMP.
 
-Options 1: designed a swtich that can handle 110V AC inout
+Options 1: designed a swtich that can handle 110V AC inout.
+
 Option 2: buy a off-the shelf high power programable switch to control lamp
 
 
